@@ -73,9 +73,5 @@ BayesNF integrates a novel deep neural network architecture for high-capacity fu
         <td>16:00 - 17:30</td>
         <td>Poster Session and Coffee Break</td>
     </tr>
-    <tr>
-        <td>17:30 - 18:30</td>
-        <td>Panel Discussion and Closing Remarks</td>
-    </tr>
     </tbody>
 </table>
