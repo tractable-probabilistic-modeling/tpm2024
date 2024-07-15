@@ -3,7 +3,7 @@ layout: default
 permalink: /program/
 title: Program
 ---
-The workshop will happen in person at the Universitat Pompeu Fabra, Barcelona, Spain on July 19th, 2024.
+The workshop will happen in person at the Universitat Pompeu Fabra, Barcelona, Spain on July 19th, 2024 in Room 40.008.
 
 <table class="table table-striped">
     <thead>
