@@ -32,10 +32,10 @@ The workshop will happen in person at the Universitat Pompeu Fabra, Barcelona, S
     <tr>
         <td>10:30 - 11:30</td>
         <td>
-        <p>Invited Talk by <strong>Devendra Singh Dhami</strong></p> <br />
+        <p>Invited Talk by <strong>Devendra Singh Dhami</strong></p>
         <p><small>
-        <b>Title:</b> TBA <br />
-        <b>Abstract:</b> TBA
+        <b>Title:</b> Causality and Probabilistic Circuits: So Close Yet So Far <br />
+        <b>Abstract:</b> The intricate and expansive nature of our world often demands large models with numerous variables. However, crafting a model that strikes the balance between accuracy and timely predictions can present significant challenges. I will talk about how the construct of probabilistic circuits (PCs) can be used to alleviate both challenges and will show how PCs can be used to answer both interventional and counterfactual queries.  I further show how PCs can help in answering causal questions in real-world benchmarks thereby taking a step towards solving the scalability issues in causal machine learning.
         </small></p>
         </td>
     </tr>
