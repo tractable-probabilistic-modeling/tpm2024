@@ -8,6 +8,7 @@ sass:
 
 include:
   - _pages
+  - _papers
 
 exclude:
   - .sass-cache

@@ -1,5 +1,55 @@
-- title: 
-  authors: 
-  type: full
-  oral: true
+- title: "IBIA: An Incremental Build-Infer-Approximate Framework for Approximate Inference of Partition Function"
+  authors: "Shivani Bathla, Vinita Vasudevan"
+  original: false
 
+- title: "On Hardware-efficient Inference in Probabilistic Circuits"
+  authors: "Lingyun Yao, Martin Trapp, Jelin Leslin, Gaurav Singh, Peng Zhang, Karthekeyan Periasamy, Martin Andraud"
+  original: false
+
+- title: Towards reliable outlier detection using invertible one-class networks
+  authors: Robert Schmier, Ullrich Koethe, Christoph-Nikolas Straehle
+  original: true
+
+- title: Probabilistic Inference by Projected Weighted Model Counting on Horn Clauses
+  authors: Alexandre Dubray, Siegfried Nijssen
+  original: false
+
+- title: Hyperparameter Optimization via Interacting with Probabilistic Circuits
+  authors: Jonas Seng, Fabrizio Ventola, Zhongjie Yu, Kristian Kersting
+  original: true
+
+- title: A confidence machine for sparse high-order interaction model
+  authors: Diptesh Das, Eugene Ndiaye, Ichiro Takeuchi
+  original: false
+
+- title: Neural Network Approximators for Marginal MAP in Probabilistic Circuits
+  authors: Shivvrat Arya, Tahrima Rahman, Vibhav Giridhar Gogate 
+  original: false
+
+- title: Polynomial Semantics of Tractable Probabilistic Circuits
+  authors: Oliver Broadrick, Honghua Zhang, Guy Van den Broeck 
+  original: false
+
+- title: A Neural Network Approach for Efficiently Answering Most Probable Explanation Queries in Probabilistic Models
+  authors: Shivvrat Arya, Tahrima Rahman, Vibhav Giridhar Gogate
+  original: true
+
+- title: Probabilistic Circuits for Cumulative Distribution Functions
+  authors: Oliver Broadrick, William Cao, Benjie Wang, Martin Trapp, Guy Van den Broeck 
+  original: true
+
+- title: On the Relationship Between Monotone and Squared Probabilistic Circuits
+  authors: Benjie Wang, Guy Van den Broeck 
+  original: true
+
+- title: "χSPN: Characteristic Interventional Sum-Product Networks for Causal Inference in Hybrid Domains"
+  authors: Harsh Poonia, Moritz Willig, Zhongjie Yu, Matej Zečević, Kristian Kersting, Devendra Singh Dhami
+  original: true
+
+- title: "GraphSPNs: Sum-Product Networks Benefit From Canonical Orderings"
+  authors: Milan Papez, Martin Rektoris, Vaclav Smidl, Tomáš Pevný 
+  original: true
+
+- title: "Conditional Bayesian Quadrature"
+  authors: Zonghao Chen, Masha Naslidnyk, Arthur Gretton, Francois-Xavier Briol 
+  original: true
