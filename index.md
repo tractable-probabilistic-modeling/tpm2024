@@ -44,10 +44,10 @@ layout: default
 
 <h2>Workshop Program</h2>
 The workshop will happen in person at the Universitat Pompeu Fabra, Barcelona, Spain on July 19th, 2024.
-See <a href="/program">program</a> for details!
+See <a href="/2024/program">program</a> for details!
 
 <h2>Accepted Papers</h2>
-The list of <a href="/papers">accepted papers</a> is online!
+The list of <a href="/2024/papers">accepted papers</a> is online!
 
 
 <h2>Call for Papers</h2>
